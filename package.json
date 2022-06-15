@@ -1,0 +1,23 @@
+{
+  "name": "resoucreguidebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinYruick/New-World-Resource-Guide.git"
+  },
+  "author": "Justin Yurick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinYruick/New-World-Resource-Guide/issues"
+  },
+  "homepage": "https://github.com/JustinYruick/New-World-Resource-Guide#readme"
+}
